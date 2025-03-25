@@ -266,4 +266,4 @@ public class TicTacToe {
         return 0;
     }
 }
-
+// комментарий специально для теста
